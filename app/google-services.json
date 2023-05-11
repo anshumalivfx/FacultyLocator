@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712693339452",
+    "project_id": "facultylocator-a4d5a",
+    "storage_bucket": "facultylocator-a4d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712693339452:android:3d55cd6613ef70c7cd7a39",
+        "android_client_info": {
+          "package_name": "com.anshumali.facultylocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712693339452-vqjf44uq0ls7l2378545sl61i5o90e85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEkeWQMe8fekGgf-va7WxynOlHuiuBLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712693339452-vqjf44uq0ls7l2378545sl61i5o90e85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
